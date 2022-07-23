@@ -1,4 +1,4 @@
-##Hi there 👋
+Hi 👋
 <!--
 - 👋 Hi, I’m @alireza-shafii
 - 👀 I’m interested in web development
